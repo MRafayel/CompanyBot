@@ -28,7 +28,7 @@ This module manages the scraping process and organizes the data by interacting w
 This module is the entry point for running the bot. It initializes the bot and starts polling for user commands.
 
 #### Main Components:
-- **run()**: 
+- **main()**: 
   - Initializes the database.
   - Sets up the bot with the provided token.
   - Starts polling for bot commands and interactions.
